@@ -1,20 +1,11 @@
 from itertools import zip_longest
 
 
-def table_begin():
-    return "\\begin{tabular}{ |c|c| }\n \\hline\n"
-
-
-def table_end():
-    return "\end{tabular}"
-
-
-def table_body(l):
-    return ''.join([f" {a} & {b} \\\\ \\hline\n" for (a, b) in zip_longest(l[0], l[1], fillvalue="")])
-
-
 def generate_table(l):
-    return table_begin() + table_body(l) + table_end()
+    begin = "\\begin{tabular}{ |c|c| }\n \\hline\n"
+    end = "\end{tabular}"
+    body = ''.join([f" {a} & {b} \\\\ \\hline\n" for (a, b) in zip_longest(l[0], l[1], fillvalue="")])
+    return begin + body + end
 
 
 def main():
