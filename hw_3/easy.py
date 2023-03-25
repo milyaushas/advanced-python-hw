@@ -1,8 +1,3 @@
-import os
-
-import numpy as np
-
-
 class Matrix:
     def __init__(self, data):
         self.n = len(data)
@@ -40,20 +35,3 @@ class Matrix:
 def format_matrix(matrix):
     return "[" + ",\n ".join(str(line) for line in matrix.data) + "]"
 
-
-def easy():
-    np.random.seed(0)
-    a = Matrix(np.random.randint(0, 10, (10, 10)))
-    b = Matrix(np.random.randint(0, 10, (10, 10)))
-
-    with open("./hw_3/artifacts/easy/matrix+.txt", "w") as f:
-        f.write(format_matrix(a + b))
-
-    with open("./hw_3/artifacts/easy/matrix*.txt", "w") as f:
-        f.write(format_matrix(a * b))
-
-    with open("./hw_3/artifacts/easy/matrix@.txt", "w") as f:
-        f.write(format_matrix(a @ b))
-
-print(os.getcwd())
-easy()
