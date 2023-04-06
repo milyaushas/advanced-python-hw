@@ -1,0 +1,432 @@
+N_JOBS = 1
+threads   time: 0.0008440017700195312 seconds
+processes time: 0.009345054626464844 seconds
+- - -
+logs:
+threads:
+Job #1 / 1 started at 17:10:38:255752 06/04/2023
+
+processes:
+Job #1 / 1 started at 17:10:38:264270 06/04/2023
+* * *
+
+N_JOBS = 2
+threads   time: 0.0011620521545410156 seconds
+processes time: 0.00961923599243164 seconds
+- - -
+logs:
+threads:
+Job #1 / 2 started at 17:10:38:265899 06/04/2023
+Job #2 / 2 started at 17:10:38:266439 06/04/2023
+
+processes:
+Job #1 / 2 started at 17:10:38:274856 06/04/2023
+Job #2 / 2 started at 17:10:38:275323 06/04/2023
+* * *
+
+N_JOBS = 3
+threads   time: 0.0011420249938964844 seconds
+processes time: 0.008995771408081055 seconds
+- - -
+logs:
+threads:
+Job #2 / 3 started at 17:10:38:277118 06/04/2023
+Job #1 / 3 started at 17:10:38:276903 06/04/2023
+Job #3 / 3 started at 17:10:38:277365 06/04/2023
+
+processes:
+Job #1 / 3 started at 17:10:38:284920 06/04/2023
+Job #2 / 3 started at 17:10:38:285027 06/04/2023
+Job #3 / 3 started at 17:10:38:285626 06/04/2023
+* * *
+
+N_JOBS = 4
+threads   time: 0.0012712478637695312 seconds
+processes time: 0.010575056076049805 seconds
+- - -
+logs:
+threads:
+Job #2 / 4 started at 17:10:38:287348 06/04/2023
+Job #4 / 4 started at 17:10:38:287740 06/04/2023
+Job #3 / 4 started at 17:10:38:287518 06/04/2023
+Job #1 / 4 started at 17:10:38:287047 06/04/2023
+
+processes:
+Job #1 / 4 started at 17:10:38:296966 06/04/2023
+Job #2 / 4 started at 17:10:38:297100 06/04/2023
+Job #3 / 4 started at 17:10:38:297243 06/04/2023
+Job #4 / 4 started at 17:10:38:297767 06/04/2023
+* * *
+
+N_JOBS = 5
+threads   time: 0.002140045166015625 seconds
+processes time: 0.01094508171081543 seconds
+- - -
+logs:
+threads:
+Job #2 / 5 started at 17:10:38:299319 06/04/2023
+Job #5 / 5 started at 17:10:38:300049 06/04/2023
+Job #4 / 5 started at 17:10:38:299796 06/04/2023
+Job #3 / 5 started at 17:10:38:299527 06/04/2023
+Job #1 / 5 started at 17:10:38:299093 06/04/2023
+
+processes:
+Job #1 / 5 started at 17:10:38:310032 06/04/2023
+Job #3 / 5 started at 17:10:38:310272 06/04/2023
+Job #2 / 5 started at 17:10:38:310165 06/04/2023
+Job #5 / 5 started at 17:10:38:310778 06/04/2023
+Job #4 / 5 started at 17:10:38:310873 06/04/2023
+* * *
+
+N_JOBS = 6
+threads   time: 0.0015671253204345703 seconds
+processes time: 0.013043880462646484 seconds
+- - -
+logs:
+threads:
+Job #3 / 6 started at 17:10:38:312581 06/04/2023
+Job #4 / 6 started at 17:10:38:312780 06/04/2023
+Job #2 / 6 started at 17:10:38:312408 06/04/2023
+Job #1 / 6 started at 17:10:38:312003 06/04/2023
+Job #5 / 6 started at 17:10:38:312955 06/04/2023
+Job #6 / 6 started at 17:10:38:313145 06/04/2023
+
+processes:
+Job #1 / 6 started at 17:10:38:324011 06/04/2023
+Job #5 / 6 started at 17:10:38:324963 06/04/2023
+Job #3 / 6 started at 17:10:38:324538 06/04/2023
+Job #4 / 6 started at 17:10:38:324666 06/04/2023
+Job #2 / 6 started at 17:10:38:324161 06/04/2023
+Job #6 / 6 started at 17:10:38:325450 06/04/2023
+* * *
+
+N_JOBS = 7
+threads   time: 0.0018889904022216797 seconds
+processes time: 0.015463829040527344 seconds
+- - -
+logs:
+threads:
+Job #5 / 7 started at 17:10:38:327813 06/04/2023
+Job #2 / 7 started at 17:10:38:327212 06/04/2023
+Job #4 / 7 started at 17:10:38:327622 06/04/2023
+Job #6 / 7 started at 17:10:38:327983 06/04/2023
+Job #7 / 7 started at 17:10:38:328152 06/04/2023
+Job #3 / 7 started at 17:10:38:327418 06/04/2023
+Job #1 / 7 started at 17:10:38:326740 06/04/2023
+
+processes:
+Job #1 / 7 started at 17:10:38:341852 06/04/2023
+Job #2 / 7 started at 17:10:38:341988 06/04/2023
+Job #3 / 7 started at 17:10:38:342166 06/04/2023
+Job #4 / 7 started at 17:10:38:342263 06/04/2023
+Job #7 / 7 started at 17:10:38:342761 06/04/2023
+Job #6 / 7 started at 17:10:38:342570 06/04/2023
+Job #5 / 7 started at 17:10:38:342412 06/04/2023
+* * *
+
+N_JOBS = 8
+threads   time: 0.0024309158325195312 seconds
+processes time: 0.016477108001708984 seconds
+- - -
+logs:
+threads:
+Job #4 / 8 started at 17:10:38:345068 06/04/2023
+Job #3 / 8 started at 17:10:38:344874 06/04/2023
+Job #6 / 8 started at 17:10:38:345502 06/04/2023
+Job #5 / 8 started at 17:10:38:345278 06/04/2023
+Job #2 / 8 started at 17:10:38:344666 06/04/2023
+Job #1 / 8 started at 17:10:38:344387 06/04/2023
+Job #8 / 8 started at 17:10:38:345916 06/04/2023
+Job #7 / 8 started at 17:10:38:345697 06/04/2023
+
+processes:
+Job #1 / 8 started at 17:10:38:360776 06/04/2023
+Job #2 / 8 started at 17:10:38:360917 06/04/2023
+Job #3 / 8 started at 17:10:38:361019 06/04/2023
+Job #8 / 8 started at 17:10:38:361620 06/04/2023
+Job #5 / 8 started at 17:10:38:361371 06/04/2023
+Job #6 / 8 started at 17:10:38:361453 06/04/2023
+Job #7 / 8 started at 17:10:38:361590 06/04/2023
+Job #4 / 8 started at 17:10:38:361195 06/04/2023
+* * *
+
+N_JOBS = 9
+threads   time: 0.004249095916748047 seconds
+processes time: 0.017570972442626953 seconds
+- - -
+logs:
+threads:
+Job #1 / 9 started at 17:10:38:363410 06/04/2023
+Job #3 / 9 started at 17:10:38:365132 06/04/2023
+Job #2 / 9 started at 17:10:38:363780 06/04/2023
+Job #6 / 9 started at 17:10:38:366198 06/04/2023
+Job #7 / 9 started at 17:10:38:366327 06/04/2023
+Job #8 / 9 started at 17:10:38:366908 06/04/2023
+Job #5 / 9 started at 17:10:38:366048 06/04/2023
+Job #4 / 9 started at 17:10:38:365449 06/04/2023
+Job #9 / 9 started at 17:10:38:367048 06/04/2023
+
+processes:
+Job #1 / 9 started at 17:10:38:381937 06/04/2023
+Job #2 / 9 started at 17:10:38:382607 06/04/2023
+Job #3 / 9 started at 17:10:38:382763 06/04/2023
+Job #9 / 9 started at 17:10:38:383285 06/04/2023
+Job #4 / 9 started at 17:10:38:382888 06/04/2023
+Job #6 / 9 started at 17:10:38:383184 06/04/2023
+Job #5 / 9 started at 17:10:38:383055 06/04/2023
+Job #8 / 9 started at 17:10:38:383549 06/04/2023
+Job #7 / 9 started at 17:10:38:383299 06/04/2023
+* * *
+
+N_JOBS = 10
+threads   time: 0.004964113235473633 seconds
+processes time: 0.020589828491210938 seconds
+- - -
+logs:
+threads:
+Job #2 / 10 started at 17:10:38:385415 06/04/2023
+Job #8 / 10 started at 17:10:38:389343 06/04/2023
+Job #7 / 10 started at 17:10:38:389201 06/04/2023
+Job #9 / 10 started at 17:10:38:389508 06/04/2023
+Job #10 / 10 started at 17:10:38:389640 06/04/2023
+Job #6 / 10 started at 17:10:38:388273 06/04/2023
+Job #5 / 10 started at 17:10:38:388107 06/04/2023
+Job #4 / 10 started at 17:10:38:387854 06/04/2023
+Job #3 / 10 started at 17:10:38:385931 06/04/2023
+Job #1 / 10 started at 17:10:38:385053 06/04/2023
+
+processes:
+Job #1 / 10 started at 17:10:38:405955 06/04/2023
+Job #3 / 10 started at 17:10:38:406777 06/04/2023
+Job #4 / 10 started at 17:10:38:406947 06/04/2023
+Job #2 / 10 started at 17:10:38:406540 06/04/2023
+Job #5 / 10 started at 17:10:38:407401 06/04/2023
+Job #6 / 10 started at 17:10:38:408007 06/04/2023
+Job #8 / 10 started at 17:10:38:408475 06/04/2023
+Job #7 / 10 started at 17:10:38:408468 06/04/2023
+Job #9 / 10 started at 17:10:38:408883 06/04/2023
+Job #10 / 10 started at 17:10:38:409095 06/04/2023
+* * *
+
+N_JOBS = 11
+threads   time: 0.005052328109741211 seconds
+processes time: 0.02114391326904297 seconds
+- - -
+logs:
+threads:
+Job #1 / 11 started at 17:10:38:410730 06/04/2023
+Job #7 / 11 started at 17:10:38:414182 06/04/2023
+Job #2 / 11 started at 17:10:38:411156 06/04/2023
+Job #4 / 11 started at 17:10:38:413496 06/04/2023
+Job #9 / 11 started at 17:10:38:414650 06/04/2023
+Job #8 / 11 started at 17:10:38:414381 06/04/2023
+Job #5 / 11 started at 17:10:38:413748 06/04/2023
+Job #3 / 11 started at 17:10:38:411673 06/04/2023
+Job #6 / 11 started at 17:10:38:413952 06/04/2023
+Job #11 / 11 started at 17:10:38:415416 06/04/2023
+Job #10 / 11 started at 17:10:38:415279 06/04/2023
+
+processes:
+Job #1 / 11 started at 17:10:38:433134 06/04/2023
+Job #2 / 11 started at 17:10:38:433343 06/04/2023
+Job #3 / 11 started at 17:10:38:433597 06/04/2023
+Job #4 / 11 started at 17:10:38:434115 06/04/2023
+Job #5 / 11 started at 17:10:38:434229 06/04/2023
+Job #7 / 11 started at 17:10:38:434554 06/04/2023
+Job #6 / 11 started at 17:10:38:434390 06/04/2023
+Job #8 / 11 started at 17:10:38:434682 06/04/2023
+Job #9 / 11 started at 17:10:38:434848 06/04/2023
+Job #11 / 11 started at 17:10:38:435232 06/04/2023
+Job #10 / 11 started at 17:10:38:435197 06/04/2023
+* * *
+
+N_JOBS = 12
+threads   time: 0.006013154983520508 seconds
+processes time: 0.023097991943359375 seconds
+- - -
+logs:
+threads:
+Job #6 / 12 started at 17:10:38:440249 06/04/2023
+Job #9 / 12 started at 17:10:38:441772 06/04/2023
+Job #7 / 12 started at 17:10:38:441127 06/04/2023
+Job #8 / 12 started at 17:10:38:441545 06/04/2023
+Job #5 / 12 started at 17:10:38:439978 06/04/2023
+Job #12 / 12 started at 17:10:38:442648 06/04/2023
+Job #10 / 12 started at 17:10:38:441894 06/04/2023
+Job #4 / 12 started at 17:10:38:439781 06/04/2023
+Job #2 / 12 started at 17:10:38:439300 06/04/2023
+Job #11 / 12 started at 17:10:38:442069 06/04/2023
+Job #3 / 12 started at 17:10:38:439548 06/04/2023
+Job #1 / 12 started at 17:10:38:437424 06/04/2023
+
+processes:
+Job #1 / 12 started at 17:10:38:462199 06/04/2023
+Job #2 / 12 started at 17:10:38:462254 06/04/2023
+Job #3 / 12 started at 17:10:38:462403 06/04/2023
+Job #4 / 12 started at 17:10:38:462585 06/04/2023
+Job #5 / 12 started at 17:10:38:462876 06/04/2023
+Job #6 / 12 started at 17:10:38:463018 06/04/2023
+Job #7 / 12 started at 17:10:38:463157 06/04/2023
+Job #8 / 12 started at 17:10:38:463480 06/04/2023
+Job #12 / 12 started at 17:10:38:464012 06/04/2023
+Job #9 / 12 started at 17:10:38:463951 06/04/2023
+Job #10 / 12 started at 17:10:38:464049 06/04/2023
+Job #11 / 12 started at 17:10:38:464149 06/04/2023
+* * *
+
+N_JOBS = 13
+threads   time: 0.005388021469116211 seconds
+processes time: 0.024669885635375977 seconds
+- - -
+logs:
+threads:
+Job #6 / 13 started at 17:10:38:469755 06/04/2023
+Job #12 / 13 started at 17:10:38:471135 06/04/2023
+Job #2 / 13 started at 17:10:38:466806 06/04/2023
+Job #4 / 13 started at 17:10:38:469267 06/04/2023
+Job #11 / 13 started at 17:10:38:470640 06/04/2023
+Job #10 / 13 started at 17:10:38:470442 06/04/2023
+Job #8 / 13 started at 17:10:38:470082 06/04/2023
+Job #5 / 13 started at 17:10:38:469574 06/04/2023
+Job #1 / 13 started at 17:10:38:466388 06/04/2023
+Job #9 / 13 started at 17:10:38:470263 06/04/2023
+Job #13 / 13 started at 17:10:38:471373 06/04/2023
+Job #3 / 13 started at 17:10:38:467226 06/04/2023
+Job #7 / 13 started at 17:10:38:469913 06/04/2023
+
+processes:
+Job #1 / 13 started at 17:10:38:492581 06/04/2023
+Job #2 / 13 started at 17:10:38:492676 06/04/2023
+Job #3 / 13 started at 17:10:38:492844 06/04/2023
+Job #4 / 13 started at 17:10:38:493004 06/04/2023
+Job #5 / 13 started at 17:10:38:493274 06/04/2023
+Job #6 / 13 started at 17:10:38:493386 06/04/2023
+Job #7 / 13 started at 17:10:38:493599 06/04/2023
+Job #8 / 13 started at 17:10:38:493680 06/04/2023
+Job #13 / 13 started at 17:10:38:494543 06/04/2023
+Job #9 / 13 started at 17:10:38:494087 06/04/2023
+Job #10 / 13 started at 17:10:38:494226 06/04/2023
+Job #11 / 13 started at 17:10:38:494406 06/04/2023
+Job #12 / 13 started at 17:10:38:494672 06/04/2023
+* * *
+
+N_JOBS = 14
+threads   time: 0.006494045257568359 seconds
+processes time: 0.027228832244873047 seconds
+- - -
+logs:
+threads:
+Job #14 / 14 started at 17:10:38:502768 06/04/2023
+Job #13 / 14 started at 17:10:38:502648 06/04/2023
+Job #7 / 14 started at 17:10:38:501033 06/04/2023
+Job #12 / 14 started at 17:10:38:502531 06/04/2023
+Job #2 / 14 started at 17:10:38:497033 06/04/2023
+Job #1 / 14 started at 17:10:38:496632 06/04/2023
+Job #4 / 14 started at 17:10:38:500191 06/04/2023
+Job #11 / 14 started at 17:10:38:502423 06/04/2023
+Job #8 / 14 started at 17:10:38:501378 06/04/2023
+Job #3 / 14 started at 17:10:38:497497 06/04/2023
+Job #9 / 14 started at 17:10:38:501664 06/04/2023
+Job #6 / 14 started at 17:10:38:500688 06/04/2023
+Job #10 / 14 started at 17:10:38:502258 06/04/2023
+Job #5 / 14 started at 17:10:38:500446 06/04/2023
+
+processes:
+Job #1 / 14 started at 17:10:38:526322 06/04/2023
+Job #2 / 14 started at 17:10:38:526489 06/04/2023
+Job #4 / 14 started at 17:10:38:526791 06/04/2023
+Job #3 / 14 started at 17:10:38:526636 06/04/2023
+Job #5 / 14 started at 17:10:38:526941 06/04/2023
+Job #6 / 14 started at 17:10:38:527206 06/04/2023
+Job #7 / 14 started at 17:10:38:527318 06/04/2023
+Job #8 / 14 started at 17:10:38:527599 06/04/2023
+Job #9 / 14 started at 17:10:38:527834 06/04/2023
+Job #14 / 14 started at 17:10:38:528299 06/04/2023
+Job #10 / 14 started at 17:10:38:528048 06/04/2023
+Job #11 / 14 started at 17:10:38:528158 06/04/2023
+Job #12 / 14 started at 17:10:38:528310 06/04/2023
+Job #13 / 14 started at 17:10:38:528477 06/04/2023
+* * *
+
+N_JOBS = 15
+threads   time: 0.006412982940673828 seconds
+processes time: 0.030137062072753906 seconds
+- - -
+logs:
+threads:
+Job #11 / 15 started at 17:10:38:535878 06/04/2023
+Job #5 / 15 started at 17:10:38:534295 06/04/2023
+Job #8 / 15 started at 17:10:38:535020 06/04/2023
+Job #1 / 15 started at 17:10:38:530512 06/04/2023
+Job #15 / 15 started at 17:10:38:536535 06/04/2023
+Job #6 / 15 started at 17:10:38:534505 06/04/2023
+Job #4 / 15 started at 17:10:38:534129 06/04/2023
+Job #3 / 15 started at 17:10:38:533858 06/04/2023
+Job #14 / 15 started at 17:10:38:536369 06/04/2023
+Job #10 / 15 started at 17:10:38:535759 06/04/2023
+Job #9 / 15 started at 17:10:38:535636 06/04/2023
+Job #13 / 15 started at 17:10:38:536184 06/04/2023
+Job #2 / 15 started at 17:10:38:531378 06/04/2023
+Job #7 / 15 started at 17:10:38:534651 06/04/2023
+Job #12 / 15 started at 17:10:38:536029 06/04/2023
+
+processes:
+Job #2 / 15 started at 17:10:38:562336 06/04/2023
+Job #1 / 15 started at 17:10:38:562232 06/04/2023
+Job #3 / 15 started at 17:10:38:562497 06/04/2023
+Job #4 / 15 started at 17:10:38:563607 06/04/2023
+Job #6 / 15 started at 17:10:38:563920 06/04/2023
+Job #5 / 15 started at 17:10:38:563754 06/04/2023
+Job #7 / 15 started at 17:10:38:564059 06/04/2023
+Job #8 / 15 started at 17:10:38:564187 06/04/2023
+Job #9 / 15 started at 17:10:38:564333 06/04/2023
+Job #10 / 15 started at 17:10:38:564491 06/04/2023
+Job #11 / 15 started at 17:10:38:564835 06/04/2023
+Job #15 / 15 started at 17:10:38:565189 06/04/2023
+Job #12 / 15 started at 17:10:38:565033 06/04/2023
+Job #13 / 15 started at 17:10:38:565134 06/04/2023
+Job #14 / 15 started at 17:10:38:565318 06/04/2023
+* * *
+
+N_JOBS = 16
+threads   time: 0.007630109786987305 seconds
+processes time: 0.03406786918640137 seconds
+- - -
+logs:
+threads:
+Job #8 / 16 started at 17:10:38:571649 06/04/2023
+Job #2 / 16 started at 17:10:38:567754 06/04/2023
+Job #15 / 16 started at 17:10:38:574173 06/04/2023
+Job #10 / 16 started at 17:10:38:573075 06/04/2023
+Job #9 / 16 started at 17:10:38:572089 06/04/2023
+Job #1 / 16 started at 17:10:38:567347 06/04/2023
+Job #13 / 16 started at 17:10:38:573799 06/04/2023
+Job #5 / 16 started at 17:10:38:570622 06/04/2023
+Job #16 / 16 started at 17:10:38:574354 06/04/2023
+Job #4 / 16 started at 17:10:38:570433 06/04/2023
+Job #11 / 16 started at 17:10:38:573285 06/04/2023
+Job #7 / 16 started at 17:10:38:571359 06/04/2023
+Job #3 / 16 started at 17:10:38:570182 06/04/2023
+Job #14 / 16 started at 17:10:38:573987 06/04/2023
+Job #12 / 16 started at 17:10:38:573578 06/04/2023
+Job #6 / 16 started at 17:10:38:570810 06/04/2023
+
+processes:
+Job #2 / 16 started at 17:10:38:603579 06/04/2023
+Job #1 / 16 started at 17:10:38:603355 06/04/2023
+Job #3 / 16 started at 17:10:38:603722 06/04/2023
+Job #4 / 16 started at 17:10:38:603923 06/04/2023
+Job #5 / 16 started at 17:10:38:604036 06/04/2023
+Job #6 / 16 started at 17:10:38:604451 06/04/2023
+Job #7 / 16 started at 17:10:38:604822 06/04/2023
+Job #8 / 16 started at 17:10:38:605021 06/04/2023
+Job #9 / 16 started at 17:10:38:605204 06/04/2023
+Job #10 / 16 started at 17:10:38:605380 06/04/2023
+Job #12 / 16 started at 17:10:38:605774 06/04/2023
+Job #16 / 16 started at 17:10:38:606197 06/04/2023
+Job #11 / 16 started at 17:10:38:605685 06/04/2023
+Job #13 / 16 started at 17:10:38:605833 06/04/2023
+Job #14 / 16 started at 17:10:38:606067 06/04/2023
+Job #15 / 16 started at 17:10:38:606224 06/04/2023
+* * *
+

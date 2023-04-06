@@ -1,0 +1,3 @@
+synchronous time: 1.0306410789489746 seconds
+threads     time: 1.0113248825073242 seconds
+processes   time: 0.3840179443359375 seconds
